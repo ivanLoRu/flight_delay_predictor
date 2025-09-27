@@ -1,0 +1,32 @@
+##environment variables
+.env
+.env.*
+*.env
+
+##jupyter##
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+##windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+##vs code
+.vscode/
+*.code-workspace
+
+##python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+*.log

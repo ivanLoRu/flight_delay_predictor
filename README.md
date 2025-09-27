@@ -1,0 +1,2 @@
+This is a flight departure delay predictor using a logistic regression and random forest model based off Bureau of Transportation Statistics 
+data. It is currently only predicting for flights coming out of Denver International Airport. 
