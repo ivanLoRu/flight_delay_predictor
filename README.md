@@ -1,4 +1,1 @@
-This is a flight departure delay predictor for Denver International Airport. There are two LSTM models. There is a regression model to attempt
-to determine by how many minutes a departing flight will be delayed by, and there is a classification model to determine whether or not a flight
-will be delayed. In building out this model, I have developed a sense of respect towards the airlines industry due to the amount of factors they
-have to deal with to keep flights on time.
+This is a flight departure delay predictor for Denver International Airport. There are two LSTM models. There is a regression model to attempt to determine by how many minutes a departing flight will be delayed by, and there is a classification model to determine whether or not a flight will be delayed. In building out this model, I have developed a sense of respect towards the airlines industry due to the amount of factors they have to deal with to keep flights on time.

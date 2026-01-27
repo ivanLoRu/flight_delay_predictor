@@ -1,0 +1,25 @@
+#env
+.env
+.env.*
+
+# local data
+data/
+notebooks/
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# venvs & conda
+.venv/
+venv/
+miniconda3/
+.envs/
+
+# vs
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
