@@ -3,7 +3,8 @@
 .env.*
 
 # local data
-data/
+data/*
+!data/processed/dia_flights.csv
 notebooks/
 
 # python
